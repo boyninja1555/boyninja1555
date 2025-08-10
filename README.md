@@ -32,6 +32,7 @@ I break rules, I ignore “best practices,” and I force tech to do stuff it sh
 
 ## 📬 Contact Me (if you dare)
 - 🌐 Website: [www.flappygrant.com](https://www.flappygrant.com/)  
+- 📧 Email: [flappyfloorg@gmail.com](mailto:flappyfloorg@gmail.com)
 - 💌 Open an issue on this repo or any other — I will find you
 
 ---
