@@ -37,5 +37,5 @@ I break rules, I ignore “best practices,” and I force tech to do stuff it sh
 
 ---
 
-> _"I don’t just write code. I write emotional damage."_  
+> _"I don’t just write code. I write emotional damage. Also open source lives on!"_  
 > — Floor Mann, August 10th, 2025 (Year of the Cr\*ckheads)
