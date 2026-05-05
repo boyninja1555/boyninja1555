@@ -3,6 +3,7 @@ All you need to know about me is the following:
 - Java lives on
 - Rust is bearable
 - C++ deserves what I'm probably not allowed to say on here
+- C is decent when the hardware itself is outdated and simple to code for :D
 - Minecraft feels like it was made for modding
 - Making social media websites is not worth the cost, even if Netlify keeps saying I've reached my monthly limit
 - Hopping web hosting providers every time I hit my limit is **NOT** morally questionable
